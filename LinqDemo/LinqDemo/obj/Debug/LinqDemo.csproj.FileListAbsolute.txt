@@ -1,0 +1,6 @@
+c:\users\johnk\documents\visual studio 2015\Projects\LinqDemo\LinqDemo\bin\Debug\LinqDemo.exe.config
+C:\Users\Johnk\documents\visual studio 2015\Projects\LinqDemo\LinqDemo\bin\Debug\LinqDemo.exe
+C:\Users\Johnk\documents\visual studio 2015\Projects\LinqDemo\LinqDemo\bin\Debug\LinqDemo.pdb
+C:\Users\Johnk\documents\visual studio 2015\Projects\LinqDemo\LinqDemo\obj\Debug\LinqDemo.csprojResolveAssemblyReference.cache
+C:\Users\Johnk\documents\visual studio 2015\Projects\LinqDemo\LinqDemo\obj\Debug\LinqDemo.exe
+C:\Users\Johnk\documents\visual studio 2015\Projects\LinqDemo\LinqDemo\obj\Debug\LinqDemo.pdb

@@ -1,0 +1,6 @@
+c:\users\johnk\documents\visual studio 2015\Projects\SortedDictionaryTest\SortedDictionaryTest\bin\Debug\SortedDictionaryTest.exe.config
+c:\users\johnk\documents\visual studio 2015\Projects\SortedDictionaryTest\SortedDictionaryTest\bin\Debug\SortedDictionaryTest.exe
+c:\users\johnk\documents\visual studio 2015\Projects\SortedDictionaryTest\SortedDictionaryTest\bin\Debug\SortedDictionaryTest.pdb
+c:\users\johnk\documents\visual studio 2015\Projects\SortedDictionaryTest\SortedDictionaryTest\obj\Debug\SortedDictionaryTest.csprojResolveAssemblyReference.cache
+c:\users\johnk\documents\visual studio 2015\Projects\SortedDictionaryTest\SortedDictionaryTest\obj\Debug\SortedDictionaryTest.exe
+c:\users\johnk\documents\visual studio 2015\Projects\SortedDictionaryTest\SortedDictionaryTest\obj\Debug\SortedDictionaryTest.pdb

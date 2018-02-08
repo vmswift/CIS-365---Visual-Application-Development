@@ -1,0 +1,6 @@
+c:\users\johnk\documents\visual studio 2015\Projects\CrapSimulationApp\CrapSimulationApp\bin\Debug\CrapSimulationApp.exe.config
+c:\users\johnk\documents\visual studio 2015\Projects\CrapSimulationApp\CrapSimulationApp\bin\Debug\CrapSimulationApp.exe
+c:\users\johnk\documents\visual studio 2015\Projects\CrapSimulationApp\CrapSimulationApp\bin\Debug\CrapSimulationApp.pdb
+c:\users\johnk\documents\visual studio 2015\Projects\CrapSimulationApp\CrapSimulationApp\obj\Debug\CrapSimulationApp.csprojResolveAssemblyReference.cache
+c:\users\johnk\documents\visual studio 2015\Projects\CrapSimulationApp\CrapSimulationApp\obj\Debug\CrapSimulationApp.exe
+c:\users\johnk\documents\visual studio 2015\Projects\CrapSimulationApp\CrapSimulationApp\obj\Debug\CrapSimulationApp.pdb

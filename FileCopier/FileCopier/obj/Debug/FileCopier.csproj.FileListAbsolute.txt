@@ -1,0 +1,9 @@
+c:\users\johnk\documents\visual studio 2015\Projects\FileCopier\FileCopier\bin\Debug\FileCopier.exe.config
+C:\Users\Johnk\documents\visual studio 2015\Projects\FileCopier\FileCopier\obj\Debug\FileCopier.csprojResolveAssemblyReference.cache
+C:\Users\Johnk\documents\visual studio 2015\Projects\FileCopier\FileCopier\obj\Debug\FileCopier.FrmFileCopier.resources
+C:\Users\Johnk\documents\visual studio 2015\Projects\FileCopier\FileCopier\obj\Debug\FileCopier.Properties.Resources.resources
+C:\Users\Johnk\documents\visual studio 2015\Projects\FileCopier\FileCopier\obj\Debug\FileCopier.csproj.GenerateResource.Cache
+C:\Users\Johnk\documents\visual studio 2015\Projects\FileCopier\FileCopier\bin\Debug\FileCopier.exe
+C:\Users\Johnk\documents\visual studio 2015\Projects\FileCopier\FileCopier\bin\Debug\FileCopier.pdb
+C:\Users\Johnk\documents\visual studio 2015\Projects\FileCopier\FileCopier\obj\Debug\FileCopier.exe
+C:\Users\Johnk\documents\visual studio 2015\Projects\FileCopier\FileCopier\obj\Debug\FileCopier.pdb
